@@ -1,0 +1,1 @@
+python -m signjoey train train_config/fire/K7.yaml --gpu_id 0

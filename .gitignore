@@ -1,0 +1,12 @@
+
+.idea/
+
+*.pyc
+
+.vscode
+
+data
+
+result
+
+train_config
